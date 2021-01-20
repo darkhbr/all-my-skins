@@ -16,7 +16,7 @@
 # [eroge](https://pipoca.s-ul.eu/1SfU4Yuy)
 ![](https://cdn.discordapp.com/attachments/448837091347136513/733440792579801158/screenshot2178.jpg)
 
-# [- Lua (Toke Hamster) + DT edit edit](https://cdn.discordapp.com/attachments/601218080940621824/693828812055642132/-_Lua_Toke_Hamster__DT_edit.osk)
+# [- Lua (Toke Hamster) + DT edit edit](https://cdn.discordapp.com/attachments/601218080940621824/693828812055642132/-_Lua_Toke_Hamster__DT_edit.osk) / [v2](https://pipoca.s-ul.eu/bSOlioWC)
 ![](https://osu.ppy.sh/ss/14682028/5c3d)
 
 # [aireu](https://cdn.discordapp.com/attachments/601218080940621824/692936174959853680/-_Aireu.osk)
