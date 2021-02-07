@@ -4,6 +4,10 @@
 # if something is missing, it's either because i didn't update yet or it's private.
  *some skins may only work in @2x
 
+
+# [- + tkova](https://files.catbox.moe/h8qw06.osk)
+![](https://cdn.discordapp.com/attachments/448837091347136513/807919614343774249/unknown.png)
+
 # [Penew / SteiNer-](https://cdn.discordapp.com/attachments/790993894866681906/795779655876870144/SteiNer-.osk)
 ![](https://cdn.discordapp.com/attachments/641872393240969228/798237179804778556/mpv-shot0009.jpg)
 
