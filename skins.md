@@ -5,6 +5,15 @@
  *some skins may only work in @2x
 
 
+# [Rosaria](https://pipoca.s-ul.eu/P86GaeYZ)
+![](https://cdn.discordapp.com/attachments/448837091347136513/840145905935187968/screenshot2558.jpg)
+
+# [+ ava v1](https://pipoca.s-ul.eu/Nfe30cfj)
+![](https://media.discordapp.net/attachments/448837091347136513/840148334311243776/screenshot2562.jpg)
+
+# [- + dark x recia](https://pipoca.s-ul.eu/8wS031lN)
+![](https://cdn.discordapp.com/attachments/448837091347136513/840144737658339328/screenshot2557.jpg)
+
 # [- + tkova](https://files.catbox.moe/h8qw06.osk)
 ![](https://cdn.discordapp.com/attachments/448837091347136513/807919614343774249/unknown.png)
 
@@ -26,7 +35,7 @@
 # [aireu](https://cdn.discordapp.com/attachments/601218080940621824/692936174959853680/-_Aireu.osk)
 ![](https://osu.ppy.sh/ss/14681985/af48)
 
-# [Toke+-+Natsukihina](https://cdn.discordapp.com/attachments/612839196121628685/670758050373566483/Toke_-_Natsukihina.osk)
+# [Toke+-+Natsukihina](https://cdn.discordapp.com/attachments/612839196121628685/670758050373566483/Toke_-_Natsukihina.osk)  /  [2021 updated ver.](https://pipoca.s-ul.eu/nSB5T4fS)
 ![](https://osu.ppy.sh/ss/14524866/72ea)
 
 # [-   spring x tko](https://pipoca.s-ul.eu/EzPqcIUH) / [(pink cursor / hitsounds)](https://pipoca.s-ul.eu/bSOlioWC)
