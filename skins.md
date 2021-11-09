@@ -3,7 +3,7 @@
 # all the skins i mostly use and/or have made are listed here
 # if something is missing, it's either because i didn't update yet or it's private.
  *some skins may only work in @2x
-
+OUTDATED. CHECK THIS LINK FOR RECENT SKINS: https://www.osuskinsbr.tk/dark
 
 # [Rosaria](https://pipoca.s-ul.eu/P86GaeYZ)
 ![](https://cdn.discordapp.com/attachments/448837091347136513/840145905935187968/screenshot2558.jpg)
